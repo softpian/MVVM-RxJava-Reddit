@@ -25,8 +25,9 @@ Please refer to [https://en.wikipedia.org/wiki/Model-view-viewmodel](https://en.
 Please refer to [https://github.com/ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) for more detailed information about RxJava.
 
 Here is the architecture of this application.
-<img src=https://softpian.github.io/gifs/RxMVVMReddit.png width="700" />
-   
+<p><img src=https://softpian.github.io/gifs/RxMVVMReddit.png width="700" /></p>
+
+Please refer to [https://github.com/googlesamples/android-architecture](https://github.com/googlesamples/android-architecture) in order to understand the overall Android Architecture including MVVM.
 
 ### Reddit RESTful API
 This application uses RESTful API of [Reddit][0] which is a social news aggregation web site in order to get top 20 news posts.
